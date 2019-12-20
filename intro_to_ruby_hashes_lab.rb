@@ -45,3 +45,4 @@ def update_counting_hash(hash, key)
   hash
   
 end
+
